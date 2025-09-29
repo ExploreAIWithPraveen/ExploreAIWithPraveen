@@ -76,7 +76,7 @@ A hands-on exploration of Generative AI concepts and workflows:
 
 ---
 
-\-\--
+---
 
  🎯 Purpose & Philosophy
 
@@ -95,7 +95,7 @@ abstract ideas tangible and memorable.
 foundations and progressively build complexity---ensuring learners not
 only understand the "how" but also the "why."
 
-\-\--
+---
 
 📚 What You\'ll Find Inside
 
@@ -113,7 +113,7 @@ difficulty to reinforce learning and track progress.
 approach in seconds---thanks to the strong conceptual base built
 throughout.
 
-\-\--
+---
 
 🚀 Who Is This For?
 
@@ -130,7 +130,7 @@ Whether you\'re:
 \- ExploreAIWithPraveen offers a refreshing, rigorous, and rewarding path
 to mastery.
 
-\-\--
+---
 
 🛠️ How to Use This Repo
 
