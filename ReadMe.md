@@ -134,18 +134,18 @@ to mastery.
 
 🛠️ How to Use This Repo
 
-1\. Start with the \*\*Introductory Chapters\*\* to align with the
+1\. Start with the **Introductory Chapters** to align with the
 author\'s mindset.
 
-2\. Progress through \*\*Concept Modules\*\*, each layered with
+2\. Progress through **Concept Modules**, each layered with
 increasing complexity.
 
-3\. Use \*\*Cheat Sheets\*\* for quick revision.
+3\. Use **Cheat Sheets** for quick revision.
 
-4\. Practice with \*\*Level-Wise Problems\*\* to solidify your
+4\. Practice with **Level-Wise Problems** to solidify your
 understanding.
 
-5\. Apply the \*\*Decision Frameworks\*\* to real-world scenarios and
+5\. Apply the **Decision Frameworks** to real-world scenarios and
 interviews.
 
 ---
