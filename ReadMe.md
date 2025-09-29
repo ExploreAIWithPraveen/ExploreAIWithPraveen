@@ -148,7 +148,7 @@ understanding.
 5\. Apply the \*\*Decision Frameworks\*\* to real-world scenarios and
 interviews.
 
-\-\--
+---
 
 🙌 Contribute or Connect
 
@@ -161,7 +161,7 @@ are welcome!
 \- 🌐 Follow the journey on
 	\[LinkedIn\](https://www.linkedin.com/in/praveen-sinha-237058a/)
 
-\-\--
+---
 
-\> "Knowledge shared is knowledge multiplied. Let's explore, learn, and
-grow---together."
+**"Knowledge shared is knowledge multiplied. Let's explore, learn, and
+grow---together."**
