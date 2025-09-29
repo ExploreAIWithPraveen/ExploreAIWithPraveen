@@ -40,7 +40,7 @@ My work spans S-Governance, E-commerce, Finance, and Cloud-native systems—alwa
 
 - **Third Eye (US Patent #16363854)** – Advanced system to measure visual acquity and customize the visual interactive surface so that visual abberrations could be nullfied.   
 - **Felcia (Patent evaluation in progress)**  – Combines Copilot and Newton Rapshon for project estimation. 
-- **Athena (Patent evaluation in progress)** – AI-driven flight planning. 
+- **Athena (Patent evaluation in progress)** – AI-driven flighting. 
 - **The Magic of AI Prompting (<u>Upcoming Book , Expected Release- Nov 2025</u>)**: A 360° guide to AI collaboration  
 
 ---
