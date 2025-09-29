@@ -1,6 +1,6 @@
- 📘 ExploreWithUs: A Journey Through Data Structures & Algorithms
+ 📘 ExploreAIWithPraveen: A Journey Through Data Structures & Algorithms
 
-Welcome to \*\*ExploreWithUs\*\*, a curated repository by me
+Welcome to \*\*ExploreAIWithPraveen\*\*, a curated repository by me
 (https://github.com/ExploreAIWithPraveen), designed to democratize deep
 understanding of \*\*Data Structures and Algorithms (DSA)\*\* through a
 uniquely engaging narrative style.
@@ -56,7 +56,7 @@ Whether you\'re:
 
 \- Or simply a curious mind exploring algorithmic thinking
 
-\- ExploreWithUs offers a refreshing, rigorous, and rewarding path
+\- ExploreAIWithPraveen offers a refreshing, rigorous, and rewarding path
 to DSA mastery.
 
 \-\--
@@ -85,7 +85,7 @@ This is a living repository. Contributions, feedback, and discussions
 are welcome!
 
 \- 📬 Reach out via \[GitHub
-Issues\](https://github.com/ExploreAIWithPraveen/ExploreWithUs/issues)
+Issues\](https://github.com/ExploreAIWithPraveen/ExploreAIWithPraveen/issues)
 
 \- 🌐 Follow the journey on
 \[LinkedIn\](https://www.linkedin.com/in/praveen-sinha-237058a/)
