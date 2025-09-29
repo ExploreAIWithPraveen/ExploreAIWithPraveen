@@ -84,10 +84,10 @@ interviews.
 This is a living repository. Contributions, feedback, and discussions
 are welcome!
 
-	\- 📬 Reach out via \[GitHub
+\- 📬 Reach out via \[GitHub
 	Issues\](https://github.com/ExploreAIWithPraveen/ExploreAIWithPraveen/issues)
 
-	\- 🌐 Follow the journey on
+\- 🌐 Follow the journey on
 	\[LinkedIn\](https://www.linkedin.com/in/praveen-sinha-237058a/)
 
 \-\--
