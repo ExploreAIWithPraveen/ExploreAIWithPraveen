@@ -38,7 +38,7 @@ My work spans S-Governance, E-commerce, Finance, and Cloud-native systems—alwa
 ---
 ## 🏅 Patents & Publications
 
-- **Third Eye (US Patent #16363854)** – Advanced system to measure visual acquity and customize the visual interactive surface so that visual abberrations could be nullfied.   
+- **Third Eye (US Patent #[US11178389B2](https://patents.google.com/patent/US11178389B2))** – Advanced system to measure visual acquity and customize the visual interactive surface so that visual abberrations could be nullfied.   
 - **Felcia (Patent evaluation in progress)**  – A new generation estimation using Newton Rapshon. 
 - **Athena (Patent evaluation in progress)** – A new geenration flighting technique. 
 - **The Magic of AI Prompting (<u>Upcoming Book , Expected Release- Nov 2025</u>)**: A 360° guide to AI collaboration  
