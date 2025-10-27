@@ -1,25 +1,28 @@
 # 👋 Hi, I'm Praveen Sinha
 
-- 🚀 Visionary Technology Leader | Patented Innovator | Cloud & Distributed Systems Expert | AI/ML Explorer  
-- 📚 Author of *The Magic of AI Prompting* (Upcoming release) | Mentor & Speaker | Mental Health Advocate
-- 🏗️ Architect of large-scale enterprise applications with a strong focus on performance and security
-- 🌍 Mentored and guided 30+ engineering professionals across diverse domains and four time zones
-- 🌍 Driving large-scale impact by pursuing global leadership roles in organizations
-
+- Executive Engineering Leader | Enterprise-Scale Architect | AI Strategist | Patent Author | Global Org Builder 
+- Author of The Magic of AI Prompting (Upcoming - expected November 2025) | Mentor & Speaker | Mental Health Advocate
 ---
 
 ## 👤 About Me
 
-With 18+ years of experience across top Fortune 500 Organization Microsoft, Honeywell, and Aztecsoft(Now Mindtree), 
-I specialize in building resilient, scalable platforms that solve complex problems from the ground up. 
-My work spans S-Governance, E-commerce, Finance, and Cloud-native systems—always with a focus on clarity, speed, and long-term impact.
+With 18+ years of experience across **Microsoft, Honeywell, Aztecsoft (now Mindtree), and TCS (APOnline)**, I specialize in building resilient, scalable platforms that solve complex problems from the ground up. My leadership spans regulated markets, mission-critical systems, and global delivery—anchored in clarity, velocity, and long-term impact. I’ve led engineering innovation across diverse domains including **Financial Services, Civic Tech,S-Governance, Aerospace, Automated Data Computation , Scanning & Mobility, and E-commerce**. I combine deep technical expertise with emotionally intelligent leadership, mentoring engineers across cultures and driving transformation through AI, cloud modernization, and architectural excellence.
+
+---
+## 🏗️ What I Build
+I design and deliver enterprise-scale platforms using distributed systems, cloud-native architecture, and AI-enhanced workflows. My solutions prioritize performance, security, resilience, and audit-readiness—built to scale across geographies and regulatory boundaries.
 
 ---
 
+## 🌍 What I Lead
+As a Director-Level Engineering Steward, I’ve built and led a 40-member global engineering organization across four pods. I mentor 30+ engineers across time zones and cultures, drive platform strategy, and lead cross-functional execution in regulated, high-scale environments.
+
+
+---
 ## 🧠 What I Bring
 
-- 🚀 **Business-Driven Innovation** 	
-   Delivered a global revenue allocation engine with sub-cent accuracy (10⁻⁹), adopted by major tech gaint to model incentives—directly influencing multi-million dollar decisions.  
+- 🚀 **Business-Driven Innovation**  
+  Delivered a global revenue allocation engine with sub-cent precision (10⁻⁹), adopted by a major tech giant to model incentives—directly influencing multi-million dollar decisions. The system aligns financial data from multiple sources, supports revenue adjustment and proration, and enables accurate, auditable allocation across business units.
 - 🧱 **Secure and Performant Workflows**  
   Engineered RBAC Level 3 authorization using SQL In-Memory OLTP, delivering the highest standard of access control. Reduced latency from 2.5 minutes to 3 milliseconds—a 50,000× performance boost—while enabling autonomous, secure workflows across critical systems.
 - 💡 **Cost-Efficient Migration and Scaling**  
@@ -38,10 +41,15 @@ My work spans S-Governance, E-commerce, Finance, and Cloud-native systems—alwa
 ---
 ## 🏅 Patents & Publications
 
-- **Third Eye (US Patent #[US11178389B2](https://patents.google.com/patent/US11178389B2))** – Advanced system to measure visual acquity and customize the visual interactive surface so that visual abberrations could be nullfied.   
-- **Felcia (Patent evaluation in progress)**  – A new generation estimation using Newton Rapshon. 
-- **Athena (Patent evaluation in progress)** – A new geenration flighting technique. 
+- **Felcia (Patent pending)**  – A new generation estimation using Newton Rapshon. 
+- **Athena (Patent pending)** – A new geenration flighting technique. 
 - **The Magic of AI Prompting (<u>Upcoming Book , Expected Release- Nov 2025</u>)**: A 360° guide to AI collaboration  
+- **Third Eye (US Patent #[US11178389B2](https://patents.google.com/patent/US11178389B2))** – Advanced system to measure visual acquity and customize the visual interactive surface so that visual abberrations could be nullifed.   
+- **ThinkWeek Papers** – Authored internal innovation papers selected for Microsoft’s ThinkWeek:
+	- Travis: Phonetic Search (Operationalized)
+	- Windows 8 as DJ Console (Productized)
+	- WP7 as POS Terminal
+- **Synapse Conference Finalist** – Pluggable Indexing Interface recognized as Top 6 finalist at Synapse Conference for scalable data systems.
 
 ---
 ## 🌍 Leadership & Community
@@ -55,7 +63,7 @@ My work spans S-Governance, E-commerce, Finance, and Cloud-native systems—alwa
 ---
 ## 📘 Featured Projects
 
- ### 🔍 [ExploreAIWithPraveen](https://github.com/ExploreAIWithPraveen/ExploreAIWithPraveen)
+ ### 🔍 [ExploreAIWithPraveen](https://github.com/ExploreAIWithPraveen/ExploreAIWithPraveen/tree/main/DataStructure)
 
 A curated repository to master Data Structures & Algorithms through:
 
@@ -73,8 +81,6 @@ A hands-on exploration of Generative AI concepts and workflows:
 - Real-world use cases: text generation, image synthesis, prompt engineering  
 - Step-by-step breakdowns to demystify architecture, training, and deployment  
 - Designed for iterative learners with a focus on reproducibility and clarity  
-
----
 
 ---
 
