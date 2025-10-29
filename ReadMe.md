@@ -61,6 +61,57 @@ As a Director-Level Engineering Steward, I’ve built and led a 40-member global
   Head of Public Relations(Current), Cereus (Depression Support & Suicide Prevention). Led outreach and partnerships for a suicide prevention nonprofit. Amplified community impact and deepened mentoring through public engagement.
 
 ---
+
+## 📊 Skills Matrix
+
+| Category              | Key Skills                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| Leadership & Strategy | Cross-functional team Team leadership, Agile/Scrum, Six Sigma, Stakeholder Alignment              |
+| Cloud Platforms       | Cloud design pattern,Azure IaaS/PaaS, Functions, Cosmos DB, Event Hub, Data Factory              |
+| Software Architecture | Microservices, Distributed Systems, Event-Driven Architecture, API gateways ,              |
+| Programming           | C#, .NET Core,Angular.js, React.js, JavaScript, HTML5, CSS3, Node.js                          |
+| Data Engineering      | SQL Server, NoSQL, Kusto, Data Lake Gen2                                   |
+| Security & Compliance | GDPR, SOX, secure coding, identity management                              |
+| DevOps & Automation   | CI/CD, Infrastructure as Code, monitoring, release automation , Test Automation              |
+| AI & ML               | GitHub Copilot, Prompt Engineering, AI-enhanced Workflows                   |
+
+---
+<details>
+<summary>📂 Full Technical Breakdown (click to expand)</summary>
+
+### Leadership & Strategic Execution
+- Cross-functional team leadership (30+ engineers across 4 time zones)  
+- Agile & Scrum delivery, Six Sigma process optimization  
+- Architectural governance, stakeholder alignment, global program execution  
+
+### Cloud Architecture & Platforms
+- Azure IaaS/PaaS, Azure Functions, Cosmos DB, Event Hub, Key Vault, Azure Data Factory  
+- Serverless architecture, AAD Single Sign-On, CDN optimization, cloud migration strategy  
+
+### Software Architecture & Engineering
+- Microservices, distributed systems, event-driven architecture, API gateway integration  
+- RBAC Level 3 (SQL In-Memory OLTP), NuGet modularization, scalable entitlement workflows  
+
+### Programming & Development
+- C#, .NET Core, ASP.NET Web API, JavaScript, React.js, HTML5, CSS3, Bootstrap  
+- GitHub Copilot, AI-enhanced workflows, prompt engineering, rapid prototyping  
+
+### Data Engineering & Storage
+- SQL Server, Cosmos DB, NoSQL, ETL/ELT pipelines, SSIS, data modelling, performance tuning  
+- Azure Kusto Cluster, Azure Blob Storage, Azure Data Lake Gen2  
+
+### Security & Compliance
+- Secure coding practices, identity management, network isolation  
+- SOX, GDPR, access control, production-safe A/B testing  
+
+### DevOps & Automation
+- CI/CD Pipelines, Infrastructure as Code, Release Automation  
+- Monitoring (App Insights, Log Analytics)  
+
+</details>
+
+
+---
 ## 📘 Featured Projects
 
  ### 🔍 [ExploreAIWithPraveen](https://github.com/ExploreAIWithPraveen/ExploreAIWithPraveen/tree/main/DataStructure)
